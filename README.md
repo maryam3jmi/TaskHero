@@ -1,0 +1,3 @@
+TaskHero is a mobile application designed to help parents encourage responsibility and positive habits in children through an engaging and rewarding experience. The app allows parents to create and manage tasks for their children, assign rewards, track task completion, and monitor their overall progress.
+
+Key features include parent and child accounts, task management, rewards and feedback, progress tracking, notifications, direct messaging, hydration tracking, a Study Sprint timer, plant and pet care activities, and annual progress reports. The app combines responsibility-building with gamification to make completing everyday tasks more motivating and enjoyable for children.
