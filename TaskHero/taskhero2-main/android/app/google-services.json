@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300699093367",
+    "project_id": "taskhero-2026",
+    "storage_bucket": "taskhero-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300699093367:android:b9f9974749070a0744f972",
+        "android_client_info": {
+          "package_name": "com.example.taskhero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeUFED4ANcERy8rsX_8QrMwTRKHLHJIAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
